@@ -1,5 +1,3 @@
-package Package1;
-
 import java.awt.Rectangle;
 
 public class Projectile
