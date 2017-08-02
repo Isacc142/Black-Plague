@@ -1,5 +1,3 @@
-package Package1;
-
 import java.awt.Rectangle;
 import java.util.LinkedList;
 
